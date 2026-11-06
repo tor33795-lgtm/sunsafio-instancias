@@ -1,12 +1,1 @@
-{
-  "instances": [
-    {
-      "codeHash": "f7631040087d0143b2a6faed3ac11129846ba75f23619b280a1186ac764b0e00",
-      "id": "dedsafio-test",
-      "name": "DEDsafio Test",
-      "version": "1.20.1",
-      "banner": "https://raw.githubusercontent.com/tor33795-lgtm/sunsafio-instancias/main/banner%20sunsafio.png",
-      "pack": "https://github.com/tor33795-lgtm/sunsafio-instancias/releases/download/v1/dedsafio.test.1.0.0.mrpack"
-    }
-  ]
-}
+
