@@ -6,6 +6,7 @@
       "name": "DEDsafio Test",
       "version": "1.20.1",
       "banner": "https://raw.githubusercontent.com/tor33795-lgtm/sunsafio-instancias/main/banner%20sunsafio.png",
+      "description": "Sunsafio 3, es la recreacion de DEDsafio 3 y 4, una combinacion entre los 2, Recreado por vNoruzz y Windy community, Estas listo para entrar?"
       "pack": "https://github.com/tor33795-lgtm/sunsafio-instancias/releases/download/v1/dedsafio.test.1.0.0.mrpack"
     }
   ]
